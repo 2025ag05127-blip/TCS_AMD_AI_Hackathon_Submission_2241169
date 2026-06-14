@@ -1,0 +1,6 @@
+id,name,lat,lng,zone,status,phone
+A1,John Wong,22.3193,114.1694,Kowloon,active,+85291234567
+A2,Mary Chan,22.2793,114.1628,HK Island,active,+85292345678
+A3,David Liu,22.3710,114.1147,New Territories,active,+85293456789
+A4,Sarah Lee,22.2476,114.1588,Aberdeen,standby,+85294567890
+A5,Michael Chen,22.2823,114.1570,Wanchai,active,+85295678901
